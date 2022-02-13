@@ -3,3 +3,4 @@ Nama: Duanda
 Umur: 24
 Stack: Front End
 Asal: Jogja
+Hobi: Futsal
